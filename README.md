@@ -1,6 +1,6 @@
 # TortiYa
 
-Un saludo para mi compa efraín
+Sistema de Punto de Venta
 
 # Screenshots
 
