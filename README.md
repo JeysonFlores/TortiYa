@@ -10,7 +10,7 @@ Sistema de Punto de Venta
 
 # Jar Dependences
   - itextpdf-5.4.1.jar
-  - RSCalenda.jar
+  - RSCalendar.jar
   - joda-time-2.10.6.jar
   - mariadb-java-client-2.5.4.jar
 
